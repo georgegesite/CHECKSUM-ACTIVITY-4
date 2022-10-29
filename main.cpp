@@ -22,7 +22,6 @@ int main()
 	 cin>> recv_message;
 	 cout<<"Enter number of bits per block/section"<<endl;
 	 cin>> block_size;
-	//10000101011000111001010011101101 example binary/ 8 bits per block
 
 	if (checker(sent_message,
 				recv_message,
